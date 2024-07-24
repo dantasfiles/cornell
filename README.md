@@ -8,5 +8,6 @@ This is a list of newsletters and blogs I follow by Cornell professors and alumn
 
 ## Alumni
 * [**Big Technology** by Alex Kantrowitz](https://www.bigtechnology.com/)
+* [**Spectech** by Ben Reinhardt](https://blog.spec.tech/)
 * [**Hardcore Software** by Steven Sinofsky](https://hardcoresoftware.learningbyshipping.com/)
 
