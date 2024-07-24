@@ -4,7 +4,7 @@ This is a list of technology newsletters and blogs I follow by Cornell professor
 
 ## Professors
 * [*Reflections* by the *Digital Life Initiative*](https://www.dli.tech.cornell.edu/blog)
-* [*Laboratorium* by *James Grimmelmann**](https://3d.laboratorium.net/)
+* [*Laboratorium* by *James Grimmelmann*](https://3d.laboratorium.net/)
 * [**Bloggings** by *Adrian Sampson*](https://www.cs.cornell.edu/~asampson/blog/)
 
 ## Alumni
