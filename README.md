@@ -7,6 +7,7 @@ This is a list of newsletters and blogs I follow by Cornell professors and alumn
 * [**Adrian Sampson**](https://www.cs.cornell.edu/~asampson/blog/)
 
 ## Alumni
+* [**Shtetl-Optimized** by Scott Aaronson](https://scottaaronson.blog/)
 * [**Platforms & Polemics** by Ari Cohn](https://aricohn.substack.com/)
 * [**Essays** by Paul Graham](https://paulgraham.com/articles.html)
 * [**Thonk From First Principles** by Horace He](https://www.thonking.ai/)
