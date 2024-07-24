@@ -2,7 +2,7 @@
 
 ## Professors
 
-* [Adrian Sampson - Computer Science](https://www.cs.cornell.edu/~asampson/blog/)
+* [**Adrian Sampson** - Computer Science](https://www.cs.cornell.edu/~asampson/blog/)
 
 ## Alumni
 * [**Hardcore Software** by Steven Sinofsky](https://hardcoresoftware.learningbyshipping.com/)
