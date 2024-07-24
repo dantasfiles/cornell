@@ -4,7 +4,7 @@ This is a list of newsletters and blogs I follow by Cornell professors and alumn
 
 ## Professors
 
-* [**Adrian Sampson** - Computer Science](https://www.cs.cornell.edu/~asampson/blog/)
+* [**Adrian Sampson**](https://www.cs.cornell.edu/~asampson/blog/)
 
 ## Alumni
 * [**Platforms & Polemics** by Ari Cohn](https://aricohn.substack.com/)
