@@ -9,7 +9,7 @@ This is a list of technology newsletters and blogs I follow by Cornell professor
 
 ## Alumni
 * [**Shtetl-Optimized** by *Scott Aaronson*](https://scottaaronson.blog/)
-* [**Platforms & Polemics* by *Ari Cohn*](https://aricohn.substack.com/)
+* [**Platforms & Polemics** by *Ari Cohn*](https://aricohn.substack.com/)
 * [**Computational Complexity** by *Lance Fortnow* & Bill Gasarch](https://blog.computationalcomplexity.org/)
 * [**Essays** by *Paul Graham*](https://paulgraham.com/articles.html)
 * [**Thonk From First Principles** by *Horace He*](https://www.thonking.ai/)
