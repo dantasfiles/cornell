@@ -7,6 +7,7 @@ This is a list of newsletters and blogs I follow by Cornell professors and alumn
 * [**Adrian Sampson** - Computer Science](https://www.cs.cornell.edu/~asampson/blog/)
 
 ## Alumni
+* [**Platforms & Polemics** by Ari Cohn](https://aricohn.substack.com/)
 * [**Essays** by Paul Graham](https://paulgraham.com/articles.html)
 * [**Big Technology** by Alex Kantrowitz](https://www.bigtechnology.com/)
 * [**Spectech** by Ben Reinhardt](https://blog.spec.tech/)
