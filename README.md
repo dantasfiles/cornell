@@ -1,4 +1,4 @@
-# Cornell-related Technology Newsletters & Blogs
+# Cornell-related Technology Newsletters and Blogs
 
 ## Alumni
 * [**Hardcore Software** by Steven Sinofsky](https://hardcoresoftware.learningbyshipping.com/)
