@@ -1,6 +1,6 @@
 # Cornell-related Technology Newsletters and Blogs
 
-This is a list of newsletters and blogs I follow by Cornell professors and alumni. To suggest additions or changes, email me at [dsd9@cornell.edu](mailto:dsd9@cornell.edu)
+This is a list of technology newsletters and blogs I follow by Cornell professors and alumni. To suggest additions or changes, email me at [dsd9@cornell.edu](mailto:dsd9@cornell.edu)
 
 ## Professors
 
