@@ -9,6 +9,7 @@ This is a list of newsletters and blogs I follow by Cornell professors and alumn
 ## Alumni
 * [**Platforms & Polemics** by Ari Cohn](https://aricohn.substack.com/)
 * [**Essays** by Paul Graham](https://paulgraham.com/articles.html)
+* [**Thonk From First Principles** by Horace He](https://www.thonking.ai/)
 * [**Big Technology** by Alex Kantrowitz](https://www.bigtechnology.com/)
 * [**Interconnects** by Nathan Lambert](https://www.interconnects.ai/)
 * [**Spectech** by Ben Reinhardt](https://blog.spec.tech/)
