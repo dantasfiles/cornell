@@ -2,26 +2,26 @@ These are books that are required or recommended for use in computer science cla
 
 <br>The books marked with a ✨ are ones I've liked enough to read all the way through
 
-| Freshman Level | Reading List |
+| Freshman Level | |
 | --- | --- |
-| **Introduction to Computing: An Engineering & Science Perspective**<br>CS 1110 | ● ✨ [*Think Python: How to Think Like a Computer Scientist*](https://allendowney.github.io/ThinkPython/) by Allen B. Downey ✨ | 
+| **Introduction to Computing: An Engineering & Science Perspective**<br>CS 1112 | ● ✨ [*Think Python: How to Think Like a Computer Scientist*](https://allendowney.github.io/ThinkPython/) by Allen B. Downey ✨ | 
 | **Introduction to Cognitive Science**<br>CS 1710 / COGST 1101 / HD 1102 / LING 1170 / PHIL 1620 / PSTCH 1102 | ● *Matter and Consciousness* by Paul M. Churchland<br> ● *The Modularity of Mind: An Essay on Faculty Psychology* by Jerry A. Fodor<br> ● *Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* by David Marr<br> ● *How the Mind Works* by Steven Pinker<br> ● *The Cambridge Handbook of Computational Psychology* by Ron Sun<br> ● *Cognitive Neuroscience: The Biology of the Mind* by Gazzaniga, Ivry & Mangun<br> ● *Vision Science: Photons to Phenomenology* by Stephen E. Palmer<br> ● *The Language Instinct: How The Mind Creates Language* by Steven Pinker<br> ● *Introduction to Psycholinguistics: Understanding Language Science* by Matthew J. Traxler<br> ● *What Emotions Really Are: The Problem of Psychological Categories* by Paul E. Griffiths<br> ● *Passions Within Reason: The Strategic Role of the Emotions* by Robert E. Frank<br> ● *Decision Making and Rationality in the Modern World* by Keith E. Stanovich<br> ● ✨ *Thinking, Fast and Slow* by Daniel Kahneman ✨<br> ● *Darwin's Unfinished Symphony: How Culture Made the Human Mind* by Kevin N. Laland<br> ● *The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter* by Joseph Henrich |
 
-| Sophomore Level | Reading List |
+| Sophomore Level | |
 | --- | --- | 
 | [**Object-Oriented Programming & Data Structures**](https://www.cs.cornell.edu/courses/cs2110/2024fa/)<br>CS 2110 / ENGRD 2110 | ● *Data Structures and Abstractions with Java* by Carrano & Henry<br> ● [*Object-Oriented Design and Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen |
 | [**Object-Oriented Design & Data Structures - Honors**](https://www.cs.cornell.edu/courses/cs2112/2024fa/)<br>CS 2112 / ENGRD 2112 | ● *Data Structures and Abstractions with Java* by Carrano & Henry<br> ● *Data Structures and Problem Solving Using Java* by Mark Allen Weiss<br> ● *Program Development in Java: Abstraction, Specification, and Object-Oriented Design* by Liskov & Guttag<br> ● *Java Precisely* by Peter Sestoft<br> ● *Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma Helm, Johnson & Vlissides<br> ● *Java in a Nutshell: A Desktop Quick Reference* by Evans, Clark & Flanagan<br> ● *Effective Java: Best Practices for the Java Platform* by Joshua Block<br> ● [*Object-Oriented Design and Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen |
 | **Mathematical Foundations of Computing**<br>CS 2800 | ● *Discrete Mathematics and its Application* by Kenneth Rosen<br> ● *Essential Discrete Mathematics for Computer Science* by Lewis & Zax<br> ● *Mathematics for Computer Science* by Lehman, Leighton & Meyer |
 | **Networks**<br>CS 2850 / ECON 2040 / INFO 2040 / SOC 2090 | ● [*Networks, Crowds, and Markets: Reasoning About a Highly Connected World*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg |
 
-| Junior Level | Reading List |
+| Junior Level | |
 | --- | --- |
 | [**Data Structures & Functional Programming**](https://www.cs.cornell.edu/courses/cs3110/2024fa/)<br>CS 3110 | ● ✨ [*OCaml Programming: Correct + Efficient + Beautiful*](https://cs3110.github.io/textbook/cover.html) by Michael Clarkson ✨ |
 | **Computer System Organization & Programming**<br>CS 3410 | ● ✨ *Computer Organization and Design: The Hardware Software Interface* by Patterson & Hennessy ✨ |
 | **Foundations of AI Reasoning & Decision-Making**<br>CS 3700 | ● *Artificial Intelligence: A Modern Approach* by Russell & Norvig |
 | [**Introduction to Machine Learning**](https://www.cs.cornell.edu/courses/cs3780/2024fa/)<br>CS 3780 | ● [*Understanding Machine Learning: From Theory to Algorithms*](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz & Ben-David<br> ● *Machine Learning* by Tom Mitchell<br> ● [*Probabilistic Machine Learning*](https://probml.github.io/pml-book/) by Kevin Murphy<br> ● *An Introduction to Support Vector Machines and Other Kernel-based Learning Methods* by Cristianini & Shawe-Taylor<br> ● *Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond* by Scholkopf & Smola<br> ● *Pattern Recognition and Machine Learning* by Christopher M. Bishop<br> ● *Introduction to Machine Learning* by Ethem Alpaydin<br> ● *Pattern Classification* by Duda, Hart & Stork<br> ● [*The Elements of Statistical Learning: Data Mining, Inference, and Prediction*](https://hastie.su.domains/ElemStatLearn/) by Hastie, Tibshirani & Friedman<br> ● *Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction* by Imbens & Rubin<br> ● *Foundations of Statistical Natural Language Processing* by Hamming & Schutze<br> ● [*Introduction to Information Retrieval*](https://nlp.stanford.edu/IR-book/) by Manning, Raghavan & Schutze<br> ● *Statistical Learning Theory* by Vladimir N. Vapnik |
 
-| Senior Level | Reading List |
+| Senior Level | |
 | --- | --- |
 | **Numerical Analysis & Differential Equations**<br>CS 4210 / MATH 4250 | ● *An Introduction to Numerical Analysis* by Kendall Atkinson |
 | [**Introduction to Database Systems**](http://www.databaselecture.com/)<br>CS 4320 | ● *Database Management Systems* by Ramakrishnan & Gehrke | 
@@ -35,7 +35,7 @@ These are books that are required or recommended for use in computer science cla
 | [**Introduction to Computational Complexity**](https://www.cs.cornell.edu/courses/cs4814/2024fa/)<br>CS 4814 | ● [*Computational Complexity: A Modern Approach*](https://theory.cs.princeton.edu/complexity/) by Arora & Barak<br> ● *Mathematics and Computation: A Theory Revolutionizing Technology and Science* by Avi Wigderson<br> ● *Introduction to Theory of Computation* by Michael Sipser |
 | **Introduction to Analysis of Algorithms**<br>CS 4820 | ● *Introduction to Algorithms* by Cormen, Leiserson, Rivest & Stein<br> ● *Algorithms* by Dasgupta, Papadimitriou & Vazirani<br> ● *The Design and Analysis of Computer Algorithms* by Aho, Hopcroft & Ullman<br> ● *Computers and Intractability: A Guide to the Theory of NP-Completeness* by Garey & Johnson<br> ● *The Design and Analysis of Algorithms* by Dexter Kozen |
 
-| Masters Level | Reading List |
+| Masters Level | |
 | --- | --- |
 | **Algorithms & Data Structures for Applications**<br>CS 5112 | ● *Algorithm Design* by Kleinberg & Tardos |
 | [**Applied High-Performance & Parallel Computing**](https://www.cs.cornell.edu/courses/cs5220/2024fa/)<br>CS 5220 | ● *Introduction to High Performance Computing for Scientists and Engineers* by Hager & Wellein<br> ● *Structured Parallel Programming: Patterns for Efficient Computation* by McCool, Robison & Reinders<br> ● *Programming Massively Parallel Processors: A Hands-on Approach* by Kirk & Hwu<br> ● *Performance Optimization of Numerically Intensive Codes* by Goedecker & Hoisie<br> ● *Principles of Parallel Programming* by Lin & Snyder<br> ● *An Introduction to Parallel Programming* by Peter Pacheco<br> ● *Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers* by Wilkinson & Allen |
@@ -48,7 +48,7 @@ These are books that are required or recommended for use in computer science cla
 | **Deep Learning**<br>CS 5787 | ● [*Dive into Deep Learning*](https://d2l.ai/) by Zhang, Lipton, Li & Smola<br> ● [*Deep Learning*](https://www.deeplearningbook.org/) by Goodfellow, Bengio & Courville |
 | **Networks & Markets**<br>CS 5854 / ORIE 5138 | ● [*A Course in Networks and Markets: Game-theoretic Models and Reasoning*](https://www.cs.cornell.edu/~rafael/networks-html/title.html) by Rafael Pass<br> ● [*Networks, Crowds, and Markets: Reasoning About a Highly Connected World*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg |
 
-| Doctoral Level | Reading List |
+| Doctoral Level | |
 | --- | --- |
 | [**Software Engineering in the Era of Machine Learning**](https://www.cs.cornell.edu/courses/cs6158/2024fa/)<br>CS 6158 | See website for paper list |
 | [**Matrix Computations**](https://www.cs.cornell.edu/courses/cs6210/2024fa/)<br>CS 6210 | ● *Matrix Computations* by Golub & Van Loan<br> ● *Numerical Linear Algebra* by Trefethen & Bau<br> ● *Applied Numerical Linear Algebra* by James W. Demmel<br> ● *Accuracy and Stability of Numerical Algorithms* by Nicholas J. Higham<br> ● *Matrix Algorithms* by G.W. Stewart<br> ● *Introduction to Linear Algebra* by Gilbert Strang<br> ● [*Large-Scale Numerical Optimization*](https://stanford.edu/class/cme338/notes.html) by Michael Saunders |
