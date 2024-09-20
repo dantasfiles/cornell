@@ -2,7 +2,20 @@ These are books that are required or recommended for use in computer science cla
 
 | Freshman | Reading List |
 | --- | --- |
-| **Introduction to Computing: An Engineering and Science Perspective**<br>CS 1110 | <ul><li>✨ [*Think Python: How to Think Like a Computer Scientist*](https://allendowney.github.io/ThinkPython/) by Allen B. Downey ✨</li></ul>| 
+| **Introduction to Computing: An Engineering & Science Perspective**<br>CS 1110 | <ul><li>✨ [*Think Python: How to Think Like a Computer Scientist*](https://allendowney.github.io/ThinkPython/) by Allen B. Downey ✨</li></ul>| 
 | **Introduction to Cognitive Science**<br>CS 1710 / COGST 1101 / HD 1102 / LING 1170 / PHIL 1620 / PSTCH 1102 | <ul><li>*Matter and Consciousness* by Paul M. Churchland</li><li>*The Modularity of Mind: An Essay on Faculty Psychology* by Jerry A. Fodor</li><li>*Vision: A Computational Investigation into the Human Representation and Processing of Visual Information* by David Marr</li><li>*How the Mind Works* by Steven Pinker</li><li>*The Cambridge Handbook of Computational Psychology* by Ron Sun</li><li>*Cognitive Neuroscience: The Biology of the Mind* by Gazzaniga, Ivry & Mangun</li><li>*Vision Science: Photons to Phenomenology* by Stephen E. Palmer</li><li>*The Language Instinct: How The Mind Creates Language* by Steven Pinker</li><li>*Introduction to Psycholinguistics: Understanding Language Science* by Matthew J. Traxler</li><li>*What Emotions Really Are: The Problem of Psychological Categories* by Paul E. Griffiths</li><li>*Passions Within Reason: The Strategic Role of the Emotions* by Robert E. Frank</li><li>*Decision Making and Rationality in the Modern World* by Keith E. Stanovich</li><li>✨ *Thinking, Fast and Slow* by Daniel Kahneman ✨</li><li>*Darwin's Unfinished Symphony: How Culture Made the Human Mind* by Kevin N. Laland</li><li>*The Secret of Our Success: How Culture Is Driving Human Evolution, Domesticating Our Species, and Making Us Smarter* by Joseph Henrich</li></ul> |
+
+| Sophomore | Reading List |
+| --- | --- | 
+| [**Object-Oriented Programming & Data Structures**](https://www.cs.cornell.edu/courses/cs2110/2024fa/)<br>CS 2110 / ENGRD 2110 | <ul><li>*Data Structures and Abstractions with Java* by Carrano & Henry</li><li>[*Object-Oriented Design and Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen</li></ul> |
+| [**Object-Oriented Design & Data Structures - Honors**](https://www.cs.cornell.edu/courses/cs2112/2024fa/)<br>CS 2112 / ENGRD 2112 | <ul><li>*Data Structures and Abstractions with Java* by Carrano & Henry</li><li>*Data Structures and Problem Solving Using Java* by Mark Allen Weiss</li><li>*Program Development in Java: Abstraction, Specification, and Object-Oriented Design* by Liskov & Guttag</li><li>*Java Precisely* by Peter Sestoft</li><li>*Design Patterns: Elements of Reusable Object-Oriented Software* by Gamma Helm, Johnson & Vlissides</li><li>*Java in a Nutshell: A Desktop Quick Reference* by Evans, Clark & Flanagan</li><li>*Effective Java: Best Practices for the Java Platform* by Joshua Block</li><li>[*Object-Oriented Design and Data Structures*](https://andrewcmyers.github.io/oodds/) by Myers & Kozen</li></ul> |
+| **Mathematical Foundations of Computing**<br>CS 2800 | <ul><li>*Discrete Mathematics and its Application* by Kenneth Rosen</li><li>*Essential Discrete Mathematics for Computer Science*by Lewis & Zax</li><li>*Mathematics for Computer Science* by Lehman, Leighton & Meyer</li></ul> |
+| **Networks**<br>CS 2850 / ECON 2040 / INFO 2040 / SOC 2090 | <ul><li>[*Networks, Crowds, and Markets: Reasoning About a Highly Connected World*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg</li></ul> |
+
+| Junior | Reading List |
+| --- | --- |
+| [**Data Structures & Functional Programming**](https://www.cs.cornell.edu/courses/cs3110/2024fa/)<br>CS 3110 | <ul><li>✨ [*OCaml Programming: Correct + Efficient + Beautiful*](https://cs3110.github.io/textbook/cover.html) by Michael Clarkson ✨</li></ul> |
+| **Computer System Organization & Programming**<br>CS 3410 | <ul><li>✨ *Computer Organization and Design: The Hardware Software Interface* by Patterson & Hennessy ✨</li></ul> |
+| **Foundations of AI Reasoning & Decision-Making**<br>CS 3700 | <ul><li>*Artificial Intelligence: A Modern Approach* by Russell & Norvig</li></ul> |
 
 
