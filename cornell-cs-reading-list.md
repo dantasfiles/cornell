@@ -38,7 +38,7 @@ These are books that are required or recommended for use in computer science cla
 | **Algorithms and Data Structures for Applications**<br>CS 5112 | <ul><li>*Algorithm Design* by Kleinberg & Tardos</li></ul> |
 | [**Applied High-Performance and Parallel Computing**](https://www.cs.cornell.edu/courses/cs5220/2024fa/)<br>CS 5220 | <ul><li>*Introduction to High Performance Computing for Scientists and Engineers* by Hager & Wellein</li><li>*Structured Parallel Programming: Patterns for Efficient Computation* by McCool, Robison & Reinders</li><li>*Programming Massively Parallel Processors: A Hands-on Approach* by Kirk & Hwu</li><li>*Performance Optimization of Numerically Intensive Codes* by Goedecker & Hoisie</li><li>*Principles of Parallel Programming* by Lin & Snyder</li><li>*An Introduction to Parallel Programming* by Peter Pacheco</li><li>*Parallel Programming: Techniques and Applications Using Networked Workstations and Parallel Computers* by Wilkinson & Allen</li></ul> |
 | [**Distributed Computing Principles**](https://www.cs.cornell.edu/courses/cs5414/2024fa/)<br>CS 5414 | <ul><li>*Distributed Systems* by Sape Mullender</li></ul> |
-| **Advanced Computer Architecture**<br>CS 5420 / ECE 6750 | <ul><li>/*Parallel Computer Architecture: A Hardware/Software Approach* by Culler & Singh</li></ul> |
+| **Advanced Computer Architecture**<br>CS 5420 / ECE 6750 | <ul><li>*Parallel Computer Architecture: A Hardware/Software Approach* by Culler & Singh</li></ul> |
 | **Privacy in the Digital Age**<br>CS 5436 | <ul><li>*Privacy in Context: Technology, Policy, and the Integrity of Social Life* by Helen Nissenbaum</li></ul> |
 
 
