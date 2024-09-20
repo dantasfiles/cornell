@@ -19,4 +19,15 @@ These are books that are required or recommended for use in computer science cla
 | **Foundations of AI Reasoning & Decision-Making**<br>CS 3700 | <ul><li>*Artificial Intelligence: A Modern Approach* by Russell & Norvig</li></ul> |
 | [**Introduction to Machine Learning**](https://www.cs.cornell.edu/courses/cs3780/2024fa/)<br>CS 3780 | <ul><li>[*Understanding Machine Learning: From Theory to Algorithms*](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz & Ben-David</li><li>*Machine Learning* by Tom Mitchell</li><li>[*Probabilistic Machine Learning*](https://probml.github.io/pml-book/) by Kevin Murphy</li><li>*An Introduction to Support Vector Machines and Other Kernel-based Learning Methods* y Cristianini & Shawe-Taylor</li><li>*Learning with Kernels: Support Vector Machines, Regularization, Optimization, and Beyond* by Scholkopf & Smola</li><li>*Pattern Recognition and Machine Learning* by Christopher M. Bishop</li><li>*Introduction to Machine Learning* by Ethem Alpaydin</li><li>*Pattern Classification* by Duda, Hart & Stork</li><li>*The Elements of Statistical Learning: Data Mining, Inference, and Prediction* by Hastie, Tibshirani & Friedman</li><li>*Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction* by Imbens & Rubin</li><li>*Foundations of Statistical Natural Language Processing* by Hamming & Schutze</li><li>[*Introduction to Information Retrieval*](https://nlp.stanford.edu/IR-book/) by Manning, Raghavan & Schutze</li><li>*Statistical Learning Theory* by Vladimir N. Vapnik</li></ul> |
 
+| Senior | Reading List |
+| --- | --- |
+| **Numerical Analysis & Differential Equations**<br>CS 4210 / MATH 4250 | <ul><li>*An Introduction to Numerical Analysis* by Kendall Atkinson</li></ul> |
+| [**Introduction to Database Systems**](http://www.databaselecture.com/)<br>CS 4320 | <ul><li>*Database Management Systems* by Ramakrishnan & Gehrke</li></ul> | 
+| [**Systems Programming**](https://www.cs.cornell.edu/courses/cs4414/2024fa/)<br>CS 4414 | <ul><li>*Computer Systems: A Programmer's Perspective* by Bryant & O'Hallaron</li><li>*A Tour of C++* by Bjarne Stroustrup</li></ul> |
+| [**Computer Architecture**](https://www.csl.cornell.edu/courses/ece4750/)<br>CS 4420 / ECE 4750 | <ul><li>*Computer Architecture: A Quantitative Approach* by Hennessy & Patterson</li><li>*Digital Design and Computer Architecture* by Harris & Harris</li><li>*Superscalar Microprocessor Design* by Mike Johnson</li><li>*Processor Architecture: From Dataflow to Superscalar and Beyond* by Silc, Robic & Ungerer</li><li>*Modern Processor Design: Fundamentals of Superscalar Processors* by Shen & Lipasti</li><li>*A Primer on Memory Consistency and Cache Coherence* by Nagarajan, Sorin, Hill & Wood</li><li>*Principles and Practices of Interconnection Networks* by Dally & Towles</li></ul> |
+
+
+
+
+
 
