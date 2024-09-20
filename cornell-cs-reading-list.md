@@ -56,8 +56,11 @@ These are books that are required or recommended for use in computer science cla
 | [**Security and Privacy Technologies**](https://github.com/tomrist/cs6431-fall2024)<br>CS 6431 | See website for paper list |
 | [**Computational Imaging**](https://www.cs.cornell.edu/courses/cs6662/2024fa/)<br>CS 6662 | ● [*Computer Vision: Algorithms and Applications*](https://szeliski.org/Book/) by Richard Szeliski<br> ● [*Computational Imaging*](https://imagingtext.github.io/) by Bhandari, Kadambi & Raskar<br> ● *Foundations of Computer Vision* by Torralba, Isola & Freeman |
 | [**3D Vision**](https://www.cs.cornell.edu/courses/cs6672/2024fa/)<br>CS 6672 | See website for paper list |
-| [**Advanced Language Technologies**](https://tagoyal.github.io/teaching/fa24/fa24.html)<br> 6740 | See website for paper list |
+| [**Advanced Language Technologies**](https://tagoyal.github.io/teaching/fa24/fa24.html)<br>CS 6740 | See website for paper list |
 | [**Deep Learning for Robotics**](https://www.cs.cornell.edu/courses/cs6758/2024fa/)<br>CS 6758 | ● *Modern Robotics: Mechanics, Planning, and Control* by Lynch & Park<br> ● [*Reinforcement Learning: An Introduction*](http://incompleteideas.net/book/the-book-2nd.html) by Sutton & Barto |
+| [**Machine Learning Theory**](https://www.cs.cornell.edu/courses/cs6783/2024fa/)<br>CS 6783 | ● [*Statistical Learning Theory and Sequential Prediction*](https://www.cs.cornell.edu/~sridharan/research.html#books) by Rakhlin & Sridharan<br> ● *Prediction, Learning, and Games* by Cesa-Bianchi & Lugosi<br> ● [*Understanding Machine Learning: From Theory to Algorithms*](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/) by Shalev-Shwartz & Ben-David<br> ● [*Introduction to Online Convex Optimization*](https://sites.google.com/view/intro-oco/) by Elad Hazan<br> ● [*A Gentle Introduction to Concentration Inequalities*](https://www.cs.cornell.edu/~sridharan/research.html#lecturenotes) by Karthik Sridharan | 
+
+
 
 
 
