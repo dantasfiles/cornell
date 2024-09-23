@@ -1,12 +1,14 @@
 ---
-title: Cornell CS Major Fall 2024 Reading List 
+title: Cornell Computer Science Major Fall 2024 Reading List 
 ---
+
+# Cornell Computer Science Major Fall 2024 Reading List
 
 These are books that are recommended for use in Fall 2024 computer science classes at Cornell.
 
 The books marked with a ✨ are ones I've liked enough to read all the way through
 
-See also [**Cornell AI minor Fall 2024 Reading List**](https://dantasfiles.com/cornell/cornell-ai-minor-reading-list-fall-2024)
+See also [**Cornell AI Minor Fall 2024 Reading List**](https://dantasfiles.com/cornell/cornell-ai-minor-reading-list-fall-2024)
 
 | Freshman Level | |
 | --- | --- |
