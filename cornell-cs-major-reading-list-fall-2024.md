@@ -2,6 +2,8 @@ These are books that are recommended for use in Fall 2024 computer science class
 
 <br>The books marked with a ✨ are ones I've liked enough to read all the way through
 
+See also [**Cornell AI minor Fall 2024 Reading List**](https://dantasfiles.com/cornell/cornell-ai-minor-reading-list-fall-2024)
+
 | Freshman Level | |
 | --- | --- |
 | **Introduction to Computing: An Engineering & Science Perspective**<br>CS 1112 | ● ✨ [*Think Python: How to Think Like a Computer Scientist*](https://allendowney.github.io/ThinkPython/) by Allen B. Downey ✨ | 
