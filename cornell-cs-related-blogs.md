@@ -2,19 +2,20 @@
 
 This is a list of technology newsletters and blogs I follow by Cornell professors and alumni. To suggest additions or changes, email me at [dsd9@cornell.edu](mailto:dsd9@cornell.edu), or [open a GitHub issue](https://github.com/dantasfiles/cornell-technology-blogs/issues)
 
-## Professors
-* [**Reflections** by the *Digital Life Initiative*](https://www.dli.tech.cornell.edu/blog)
-* [**Laboratorium** by *James Grimmelmann*](https://3d.laboratorium.net/)
-* [**Bloggings** by *Adrian Sampson*](https://www.cs.cornell.edu/~asampson/blog/)
+## Professors & Staff
+* [**_Reflections_**](https://www.dli.tech.cornell.edu/blog) by the Digital Life Initiative
+* [**_Laboratorium_**](https://3d.laboratorium.net/) by James Grimmelmann
+* [**_Bloggings_**](https://www.cs.cornell.edu/~asampson/blog/) by Adrian Sampson
+* [**Initiative for Cryptocurrencies and Contracts**](https://www.youtube.com/@ic3initiativeforcryptocurr114)
 
 ## Alumni
-* [**Shtetl-Optimized** by *Scott Aaronson*](https://scottaaronson.blog/)
-* [**Platforms & Polemics** by *Ari Cohn*](https://aricohn.substack.com/)
-* [**Computational Complexity** by *Lance Fortnow* & Bill Gasarch](https://blog.computationalcomplexity.org/)
-* [**Essays** by *Paul Graham*](https://paulgraham.com/articles.html)
-* [**Thonk From First Principles** by *Horace He*](https://www.thonking.ai/)
-* [**Big Technology** by *Alex Kantrowitz*](https://www.bigtechnology.com/)
-* [**Interconnects** by *Nathan Lambert*](https://www.interconnects.ai/)
-* [**Spectech** by *Ben Reinhardt*](https://blog.spec.tech/)
-* [**Hardcore Software** by *Steven Sinofsky*](https://hardcoresoftware.learningbyshipping.com/)
+* [**_Shtetl-Optimized_**](https://scottaaronson.blog/) by Scott Aaronson
+* [**_Platforms & Polemics_**](https://aricohn.substack.com/) by Ari Cohn
+* [**_Computational Complexity_**](https://blog.computationalcomplexity.org/) by Lance Fortnow & Bill Gasarch
+* [**_Essays_**](https://paulgraham.com/articles.html) by Paul Graham
+* [**_Thonk From First Principles_**](https://www.thonking.ai/) by Horace He
+* [**_Big Technology_**](https://www.bigtechnology.com/) by Alex Kantrowitz
+* [**_Interconnects_**](https://www.interconnects.ai/) by Nathan Lambert
+* [**_Spectech_**](https://blog.spec.tech/) by Ben Reinhardt
+* [**_Hardcore Software_**](https://hardcoresoftware.learningbyshipping.com/) by Steven Sinofsky
 
