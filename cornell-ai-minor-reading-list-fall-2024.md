@@ -9,7 +9,7 @@ These are books that are recommended in Fall 2024 classes for the [**Artificial 
 
 The books marked with a ✨ are ones [I've](https://dantasfiles.com) liked enough to read all the way through
 
-See also [**Cornell Computer Science Major Fall 2024 Reading List**](https://dantasfiles.com/cornell/cornell-cs-major-reading-list-fall-2024)
+See also [**Cornell Computer Science Major - Fall 2024 - Unofficial Reading List**](https://dantasfiles.com/cornell/cornell-cs-major-reading-list-fall-2024)
 
 | Junior Level | |
 | --- | --- |
