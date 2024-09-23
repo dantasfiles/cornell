@@ -1,15 +1,15 @@
 ---
-title: Cornell Artifical Intelligence Minor - Fall 2024 - Unofficial Reading List
+title: Cornell Artifical Intelligence - Fall 2024 Unofficial Reading List
 ---
 [← Back to dantasfiles.com/cornell](https://dantasfiles.com/cornell)
 
-# Cornell Artifical Intelligence Minor - Fall 2024 - Unofficial Reading List
+# Cornell Artifical Intelligence - Fall 2024 Unofficial Reading List
 
 These are books that are recommended in Fall 2024 classes for the [**Artificial Intelligence minor at Cornell**](https://prod.cis.cornell.edu/undergraduate-opportunities/minors/artificial-intelligence)
 
 The books marked with a ✨ are ones [I've](https://dantasfiles.com) liked enough to read all the way through
 
-See also [**Cornell Computer Science Major - Fall 2024 - Unofficial Reading List**](https://dantasfiles.com/cornell/cornell-cs-major-reading-list-fall-2024)
+See also [**Cornell Computer Science - Fall 2024 Unofficial Reading List**](https://dantasfiles.com/cornell/cornell-cs-major-reading-list-fall-2024)
 
 | Junior Level | |
 | --- | --- |
