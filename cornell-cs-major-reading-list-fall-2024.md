@@ -1,10 +1,10 @@
 ---
-title: Cornell Computer Science Major Fall 2024 Reading List 
+title: Cornell Computer Science Major Fall 2024 Unofficial Reading List 
 ---
 
 [← Back to dantasfiles.com/cornell](https://dantasfiles.com/cornell)
 
-# Cornell Computer Science Major Fall 2024 Reading List
+# Cornell Computer Science Major Fall 2024 Unofficial Reading List
 
 These are books that are recommended in Fall 2024 computer science classes at Cornell.
 
