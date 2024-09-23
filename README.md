@@ -7,4 +7,6 @@
 
 ## [Cornell-related Technology Newsletters and Blogs →](https://dantasfiles.com/cornell/cornell-cs-blogs)
 
+*I'm an alumnus, but am otherwise not affiliated with Cornell*
+
 [← Back to dantasfiles.com](https://dantasfiles.com)
