@@ -2,6 +2,8 @@ These are books that are recommended for use in Fall 2024 courses for the [Artif
 
 The books marked with a ✨ are ones I've liked enough to read all the way through
 
+See also [**Cornell CS Major Fall 2024 Reading List**](cornell-cs-major-reading-list-fall-2024)
+
 | Junior Level | |
 | --- | --- |
 | **Foundations of AI Reasoning & Decision-Making**<br>CS 3700 | ● *Artificial Intelligence: A Modern Approach* by Russell & Norvig |
