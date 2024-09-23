@@ -1,4 +1,4 @@
-These are books that are required or recommended for use in computer science classes at Cornell.
+These are books that are recommended for use in computer science classes at Cornell.
 
 <br>The books marked with a ✨ are ones I've liked enough to read all the way through
 
