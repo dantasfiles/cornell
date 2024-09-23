@@ -1,3 +1,9 @@
+---
+title: Cornell-related Technology Newsletters and Blogs
+---
+
+[← Back to dantasfiles.com/cornell](https://dantasfiles.com/cornell)
+
 # Cornell-related Technology Newsletters and Blogs
 
 This is a list of technology newsletters and blogs I follow by Cornell professors and alumni<br>To suggest additions or changes, email me at [dsd9@cornell.edu](mailto:dsd9@cornell.edu)
@@ -22,3 +28,4 @@ This is a list of technology newsletters and blogs I follow by Cornell professor
 * [**_Spectech_**](https://blog.spec.tech/) by Ben Reinhardt
 * [**_Hardcore Software_**](https://hardcoresoftware.learningbyshipping.com/) by Steven Sinofsky
 
+[← Back to dantasfiles.com/cornell](https://dantasfiles.com/cornell)
