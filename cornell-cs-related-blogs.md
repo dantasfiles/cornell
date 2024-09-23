@@ -4,9 +4,11 @@ This is a list of technology newsletters and blogs I follow by Cornell professor
 
 ## Professors & Staff
 * [**_Reflections_**](https://www.dli.tech.cornell.edu/blog) by the Digital Life Initiative
+* [**Initiative for Cryptocurrencies and Contracts**](https://www.youtube.com/@ic3initiativeforcryptocurr114)
 * [**_Laboratorium_**](https://3d.laboratorium.net/) by James Grimmelmann
 * [**_Bloggings_**](https://www.cs.cornell.edu/~asampson/blog/) by Adrian Sampson
-* [**Initiative for Cryptocurrencies and Contracts**](https://www.youtube.com/@ic3initiativeforcryptocurr114)
+* [**Immanuel Trummer**](https://www.youtube.com/@immanueltrummer4111)
+
 
 ## Alumni
 * [**_Shtetl-Optimized_**](https://scottaaronson.blog/) by Scott Aaronson
