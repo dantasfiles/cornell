@@ -2,11 +2,13 @@
 title: Cornell Computer Science Major Fall 2024 Reading List 
 ---
 
+[← Back to dantasfiles.com](https://dantasfiles.com)
+
 # Cornell Computer Science Major Fall 2024 Reading List
 
-These are books that are recommended for use in Fall 2024 computer science classes at Cornell.
+These are books that are recommended in Fall 2024 computer science classes at Cornell.
 
-The books marked with a ✨ are ones I've liked enough to read all the way through
+The books marked with a ✨ are ones [I've](https://dantasfiles.com) liked enough to read all the way through
 
 See also [**Cornell AI Minor Fall 2024 Reading List**](https://dantasfiles.com/cornell/cornell-ai-minor-reading-list-fall-2024)
 
@@ -75,7 +77,7 @@ See also [**Cornell AI Minor Fall 2024 Reading List**](https://dantasfiles.com/c
 | [**Algorithmic Game Theory**](https://www.cs.cornell.edu/courses/cs6840/2024fa/)<br>CS 6840 | ● *Twenty Lectures on Algorithmic Game Theory* by Tim Roughgarden<br> ● [*Networks, Crowds, and Markets: Reasoning About a Highly Connected World*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg<br> ● *Algorithmic Game Theory* by Nisan, Roughgarden, Tardos & Vazirani |
 | [**The Structure of Information Networks**](https://www.cs.cornell.edu/courses/cs6850/2024fa/)<br>CS 6850 / INFO 6850 | ● [*Networks, Crowds, and Markets: Reasoning About a Highly Connected World*](https://www.cs.cornell.edu/home/kleinber/networks-book/) by Easley & Kleinberg<br> ● *Algorithmic Game Theory* by Nisan, Roughgarden, Tardos & Vazirani |
 
-
+[← Back to dantasfiles.com](https://dantasfiles.com)
 
 
 
