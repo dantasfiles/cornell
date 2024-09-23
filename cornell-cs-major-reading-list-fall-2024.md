@@ -1,5 +1,5 @@
 ---
-title: Cornell CS Major Fall 2024 Reading List
+title: Cornell CS Major Fall 2024 Reading List 
 ---
 
 These are books that are recommended for use in Fall 2024 computer science classes at Cornell.
