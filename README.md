@@ -7,6 +7,6 @@
 
 ## [Cornell-related Technology Newsletters and Blogs →](https://dantasfiles.com/cornell/cornell-cs-blogs)
 
-*I'm an alumnus, but am otherwise not affiliated with Princeton, so everything here are just my personal links*
+*I'm an alumnus, but am otherwise not affiliated with Cornell, so everything here are just my personal links*
 
 [← Back to dantasfiles.com](https://dantasfiles.com)
