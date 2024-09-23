@@ -17,7 +17,7 @@ This is a list of technology newsletters and blogs I follow by Cornell professor
 * [**_Essays_**](https://paulgraham.com/articles.html) by Paul Graham
 * [**_Thonk From First Principles_**](https://www.thonking.ai/) by Horace He
 * [**_Big Technology_**](https://www.bigtechnology.com/) by Alex Kantrowitz
-* [**_Interconnects_**](https://www.interconnects.ai/) by Nathan Lambert
+* [**_Interconnects_**](https://www.interconnects.ai/) by Nathan Lambert ([Youtube](https://www.youtube.com/@natolambert))
 * [**_Spectech_**](https://blog.spec.tech/) by Ben Reinhardt
 * [**_Hardcore Software_**](https://hardcoresoftware.learningbyshipping.com/) by Steven Sinofsky
 
