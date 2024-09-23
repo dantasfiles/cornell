@@ -1,7 +1,7 @@
 ---
 title: Cornell Artifical Intelligence Minor Fall 2024 Reading List
 ---
-[← Back to dantasfiles.com](https://dantasfiles.com)
+[← Back to dantasfiles.com/cornell](https://dantasfiles.com/cornell)
 
 # Cornell Artifical Intelligence Minor Fall 2024 Reading List
 
@@ -30,4 +30,4 @@ See also [**Cornell Computer Science Major Fall 2024 Reading List**](https://dan
 | **Robot Perception**<br>ECE 4240 / MAE 4810 | ● *Information-Driven Planning and Control* by Ferrari & Wettergren<br> ● *Handbook of Intelligent Control: Neural, Fuzzy, and Adaptive Approaches* by White & Sofge<br> ● *Introduction to Bayesian Networks* by Finn V. Jensen<br> ● *Learning in Graphical Models* by Michael I. Jordan<br> ● *Markov Random Fields for Vision and Image Processing* by Blake, Kohli & Rother<br> ● *Nonlinear Systems* by Hassan K. Khalil<br> ● *Optimal Control and Estimation* by Robert F. Stengel<br> ● *Optimal Control Theory: An Introduction* by Donald E. Kirk<br> ● *Linear Programming: Foundations and Extensions* by Robert J. Vanderbei<br> ● *Bayesian Networks and Decision Graphs* by Finn V. Jensen<br> ● *Introduction to Artificial Intelligence* by Charniak & McDermott<br> ● *The Handbook of Artificial Intelligence* by Cohen & Feigenbaum<br> ● *A Course in Fuzzy Systems and Control* by Li-Xin Wang<br> ● *Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference* by Judea Pearl<br> ● *Neural Networks and Artificial Intelligence for Biomedical Engineering* by Hudson & Cohen<br> ● *Neural Networks: Theoretical Foundations and Analysis* by Clifford Lau<br> ● *Adaptation in Natural and Artificial Systems: An Introductory Analysis with Applications to Biology, Control, and Artificial Intelligence* by John H. Holland<br> ● [*Reinforcement Learning: An Introduction*](http://incompleteideas.net/book/the-book-2nd.html) by Sutton & Barto<br> ● *Multiagent Systems* by Gerhard Weiss<br> ● *An Introduction to MultiAgent Systems* by Michael Woolridge |
 | **Linear Models with Matrices**<br>STSCI 4030 / BTRY 4030 | ● *Applied Regression Analysis: A Research Tool* by Rawlings, Pantula & Dickey |
 
-[← Back to dantasfiles.com](https://dantasfiles.com)
+[← Back to dantasfiles.com/cornell](https://dantasfiles.com/cornell)
