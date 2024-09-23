@@ -1,8 +1,8 @@
 ---
-title: Cornell AI Minor Fall 2024 Reading List
+title: Cornell Artifical Intelligence Minor Fall 2024 Reading List
 ---
 
-# Cornell AI Minor Fall 2024 Reading List
+# Cornell Artifical Intelligence Minor Fall 2024 Reading List
 
 These are books that are recommended for use in Fall 2024 courses for the [**Artificial Intelligence minor at Cornell**](https://prod.cis.cornell.edu/undergraduate-opportunities/minors/artificial-intelligence)
 
