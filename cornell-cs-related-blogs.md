@@ -1,6 +1,6 @@
 # Cornell-related Technology Newsletters and Blogs
 
-This is a list of technology newsletters and blogs I follow by Cornell professors and alumni. To suggest additions or changes, email me at [dsd9@cornell.edu](mailto:dsd9@cornell.edu), or [open a GitHub issue](https://github.com/dantasfiles/cornell-technology-blogs/issues)
+This is a list of technology newsletters and blogs I follow by Cornell professors and alumni<br>To suggest additions or changes, email me at [dsd9@cornell.edu](mailto:dsd9@cornell.edu)
 
 ## Professors & Staff
 * [**_Reflections_**](https://www.dli.tech.cornell.edu/blog) by the Digital Life Initiative
